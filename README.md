@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 |Career|Workplace|Period|+α|
 |:---:|:---:|:---:|:---:|
-|UNIV|아주대학교 소프트웨어학과|March 2019 ~ |.|
-|ARMY|Cert|X|X|
-|Experiance|X|X|X|
+|UNIV|아주대학교 소프트웨어학과|March 2019 ~ ||
+|ARMY|Cert|||
+|Experiance||||
