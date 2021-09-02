@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align=center>
+	
 |Career|Workplace|Period|+α|
 |:---:|:---:|:---:|:---:|
 |UNIV|아주대학교 소프트웨어학과|March 2019 ~ ||
 |ARMY|Cert|||
 |Experiance||||
-
-<div align=center>
+	
+	<a>Flatform</a>
 	<img src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+  	<a>Languages</a>
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 </div>
