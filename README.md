@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|:---:|
 |UNIV|아주대학교 소프트웨어학과|March 2019 ~ ||
 |ARMY|Cert|||
-|Experiance||||
+|Experience||||
 
 <div align=center>
 <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
