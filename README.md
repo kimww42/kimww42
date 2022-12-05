@@ -12,15 +12,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](api.svg)
-
-|Career|Workplace|Period|+α|
-|:---:|:---:|:---:|:---:|
-|UNIV|아주대학교 소프트웨어학과|March 2019 ~ ||
-|ARMY|ROKA 11div Cert|September 2020 ~ March 2022||
-|Experience||||
-
+<p align = "center">
+  <img src="api.svg">
+</p>
 <div align=center>
+<table>
+    <thead>
+        <tr>
+            <th>Career</th>
+            <th>Workplace</th>
+            <th>Period</th>
+          <th>+α</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>UNIV</td>
+            <td>아주대학교 소프트웨어학과</td>
+            <td>March 2019 ~</td>
+          <td></td>
+        </tr>
+        <tr>
+            <td>Army</td>
+            <td>ROKA 11div CERT</td>
+            <td>September 2020 ~ March 2022</td>
+          <td></td>
+        </tr>
+        <tr>
+            <td rowspan=3>Experience</td>
+            <td>2018 KOI 전국본선 참가</td>
+          <td>July 2018</td>
+          <td></td>
+        </tr>
+        <tr>
+            <td>2018 KOI 부산대회 참가</td>
+          <td>May 2018</td>
+          <td>장려상</td>
+        </tr>
+      <tr>
+            <td>2017 KOI 부산대회 참가</td>
+          <td>May 2017</td>
+          <td>장려상</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
