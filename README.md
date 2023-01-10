@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
     <thead>
         <tr>
-            <th>Career</th>
+            <th>CV</th>
             <th>Workplace</th>
             <th>Period</th>
           <th>+α</th>
@@ -27,16 +27,26 @@ Here are some ideas to get you started:
     </thead>
     <tbody>
         <tr>
-            <td>UNIV</td>
+            <td rowspan=2>Education</td>
             <td>아주대학교 소프트웨어학과</td>
             <td>March 2019 ~</td>
           <td></td>
         </tr>
         <tr>
-            <td>Army</td>
-            <td>ROKA 11div CERT</td>
-            <td>September 2020 ~ March 2022</td>
+            <td>아주대학교 의료인공지능 마이크로전공</td>
+            <td>March 2023 ~</td>
           <td></td>
+        </tr>
+        <tr>
+            <td rowspan=2>Worked</td>
+            <td>ROKA 11div</td>
+            <td>September 2020 ~ March 2022</td>
+          <td>CERT</td>
+        </tr>
+      <tr>
+            <td>Insilicogen</td>
+            <td>January 2023 ~ February 2023</td>
+          <td>人Co Internship</td>
         </tr>
         <tr>
             <td rowspan=3>Experience</td>
