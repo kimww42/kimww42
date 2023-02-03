@@ -44,9 +44,9 @@ Here are some ideas to get you started:
           <td>CERT</td>
         </tr>
       <tr>
-            <td>Insilicogen</td>
+            <td>Insilicogen Internship</td>
             <td>January 2023 ~ February 2023</td>
-          <td>人Co Internship</td>
+          <td>BioInformatics / ML</td>
         </tr>
         <tr>
             <td rowspan=3>Experience</td>
