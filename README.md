@@ -49,18 +49,23 @@ Here are some ideas to get you started:
           <td>BioInformatics / ML</td>
         </tr>
         <tr>
-            <td rowspan=3>Experience</td>
-            <td>2018 KOI 전국본선 참가</td>
+            <td rowspan=4>Experience</td>
+          <td>2019 ICPC Seoul Regional Preliminary</td>
+          <td>October 2019</td>
+          <td>156th</td>
+      </tr>
+      <tr>
+            <td>2018 KOI National Finals</td>
           <td>July 2018</td>
           <td></td>
         </tr>
         <tr>
-            <td>2018 KOI 부산대회 참가</td>
+            <td>2018 KOI Busan Regional Preliminary</td>
           <td>May 2018</td>
           <td>장려상</td>
         </tr>
       <tr>
-            <td>2017 KOI 부산대회 참가</td>
+            <td>2017 KOI Busan Regional Preliminary</td>
           <td>May 2017</td>
           <td>장려상</td>
         </tr>
