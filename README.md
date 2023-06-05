@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         <tr>
             <td rowspan=3>Worked</td>
             <td>Insilicogen Freelance</td>
-            <td>March 2023 ~ </td>
+            <td>March 2023 ~ May 2023</td>
             <td>Back-End</td>
         </tr>
         <tr>
