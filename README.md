@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="api.svg">
 </p>
+
+  #### Find out more information on LinkedIn
+[<img width="195" alt="image" src="https://github.com/kimww42/kimww42/assets/23449575/a10b6db7-9a8d-4bbc-b08a-a2390c65e170">](https://www.linkedin.com/in/sss1w0n/)
+
 <div align=center>
 <table>
     <thead>
@@ -52,27 +56,6 @@ Here are some ideas to get you started:
             <td>ROKA 11div</td>
             <td>September 2020 ~ March 2022</td>
             <td>CERT</td>
-        </tr>
-        <tr>
-            <td rowspan=4>Experience</td>
-            <td>2019 ICPC Seoul Regional Preliminary</td>
-            <td>October 2019</td>
-            <td>156th</td>
-        </tr>
-        <tr>
-            <td>2018 KOI National Finals</td>
-            <td>July 2018</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2018 KOI Busan Regional Preliminary</td>
-            <td>May 2018</td>
-            <td>장려상</td>
-        </tr>
-        <tr>
-            <td>2017 KOI Busan Regional Preliminary</td>
-            <td>May 2017</td>
-            <td>장려상</td>
         </tr>
     </tbody>
 </table>
