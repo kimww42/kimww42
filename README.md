@@ -42,7 +42,12 @@ Here are some ideas to get you started:
           <td></td>
         </tr>
         <tr>
-            <td rowspan=3>Worked</td>
+            <td rowspan=4>Worked</td>
+            <td>SNUBH(분당서울대병원) AI Center</td>
+            <td>March 2024 ~ </td>
+            <td>AI Researcher</td>
+        </tr>
+        <tr>
             <td>Insilicogen Freelance</td>
             <td>March 2023 ~ May 2023</td>
             <td>Back-End</td>
