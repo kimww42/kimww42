@@ -64,16 +64,4 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-
-
-<img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=apple&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 </div>
