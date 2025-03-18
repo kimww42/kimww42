@@ -33,33 +33,33 @@ Here are some ideas to get you started:
         <tr>
             <td rowspan=2>Education</td>
             <td>아주대학교 의료인공지능 마이크로전공</td>
-            <td>March 2023 ~</td>
+            <td>Mar. 2023 ~ Aug. 2025</td>
           <td></td>
         </tr>
         <tr>
             <td>아주대학교 소프트웨어학과</td>
-            <td>March 2019 ~</td>
+            <td>Mar. 2019 ~ Aug. 2025</td>
           <td></td>
         </tr>
         <tr>
             <td rowspan=4>Worked</td>
             <td>SNUBH(분당서울대병원) AI Center</td>
-            <td>March 2024 ~ </td>
+            <td>Mar. 2024 ~ Aug. 2024</td>
             <td>AI Researcher</td>
         </tr>
         <tr>
             <td>Insilicogen Freelance</td>
-            <td>March 2023 ~ May 2023</td>
+            <td>Mar. 2023 ~ May. 2023</td>
             <td>Back-End</td>
         </tr>
         <tr>
             <td>Insilicogen Internship</td>
-            <td>January 2023 ~ February 2023</td>
+            <td>Jan. 2023 ~ Feb. 2023</td>
             <td>BioInformatics / ML</td>
         </tr>
         <tr>
             <td>ROKA 11div</td>
-            <td>September 2020 ~ March 2022</td>
+            <td>Sep. 2020 ~ Mar. 2022</td>
             <td>CERT</td>
         </tr>
     </tbody>
