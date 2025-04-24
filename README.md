@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <p>I'm a undergraduate student at <a href="https://ajou.ac.kr/">Dept. of Computer Science, Ajou University</a>.</p>
 <p>My research interests are to understand the real world through video. In particular, my research topics are <strong>VLM, Video Generation, Synthesis, and Video Understanding</strong>. I have worked on Medical AI, before.</p>
 
-<a href="https://kimww42.github.io/">Homepage</a> | <a href="https://kimww42.github.io/cv/SiwonKim_250326.pdf">CV</a> | <a href="https://www.linkedin.com/in/sss1w0n/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=SALtFwMAAAAJ&hl=ko">Google Scholar</a>
+<a href="https://kimww42.github.io/">Homepage</a> | <a href="https://kimww42.github.io/cv/SiwonKim_CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/sss1w0n/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=SALtFwMAAAAJ&hl=ko">Google Scholar</a>
 </div>
