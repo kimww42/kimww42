@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Current
-- SW Engineer(Measurement) @ Samsung Medison (2025-)
+- SW Engineer @ Samsung Medison (2025-)
 
 #### Past
 - Research Intern @ DAVIAN Lab, KAIST AI (2025)
